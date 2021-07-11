@@ -1,0 +1,8 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "devDependencies": {
+    "barrelsby": "2.2.0",
+    "typescript": "4.2.4"
+  }
+}
